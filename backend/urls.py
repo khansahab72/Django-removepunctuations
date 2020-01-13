@@ -21,4 +21,5 @@ urlpatterns = [
     path('',views.fun1),
     path('analyze',views.analyze)
 
+
 ]
